@@ -1,0 +1,72 @@
+.keypointsTableFlexContainer {
+    display: flex;
+    width: 90%;
+    flex-direction: row;
+    margin: 3% auto;
+    position: relative;
+    object-fit: contain;
+}
+
+.carMakesContainer > h4,
+.carMakesContainer > p,
+.servicesContainer > h4,
+.servicesContainer > p,
+.supportContainer > h4,
+.supportContainer > p{
+    color: #ffffff;
+    letter-spacing: .5px;
+}
+
+.carMakesContainer > p,
+.servicesContainer > p,
+.supportContainer > p {
+    margin-bottom: 0;
+}
+
+.topMargin {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 1.5em;
+}
+
+.carMakesContainer {
+    display: inline-flex;
+    flex-direction: column;
+    row-gap: 0;
+    word-wrap: break-word;
+    flex-basis: 1;
+    padding: 3%;
+    border: 1px #ffffff solid;
+}
+
+.servicesContainer {
+    display: inline-flex;
+    flex-direction: column;
+    row-gap: 0;
+    word-wrap: break-word;
+    flex-basis: 1;
+    padding: 3%;
+    border: 1px #ffffff solid;
+}
+
+.supportContainer {
+    display: inline-flex;
+    flex-direction: column;
+    row-gap: 0;
+    word-wrap: break-word;
+    flex-basis: 1;
+    padding: 3%;
+    border: 1px #ffffff solid;
+}
+
+.wrenchServiceAgentIcons {
+    border: .5px solid #000000;
+    border-radius: 50%;
+    padding: 1%;
+    font-size: 30px;
+    position:absolute;
+    top: -13%;
+    background-color: #3e4759ff;
+    object-fit:scale-down;
+    margin-bottom: 0;
+}
