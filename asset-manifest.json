@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/6thGearAutoRepair/static/css/main.44e5c9c6.css",
+    "main.js": "/6thGearAutoRepair/static/js/main.6e9b0e3e.js",
+    "index.html": "/6thGearAutoRepair/index.html",
+    "main.44e5c9c6.css.map": "/6thGearAutoRepair/static/css/main.44e5c9c6.css.map",
+    "main.6e9b0e3e.js.map": "/6thGearAutoRepair/static/js/main.6e9b0e3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44e5c9c6.css",
+    "static/js/main.6e9b0e3e.js"
+  ]
+}
